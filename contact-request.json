@@ -1,0 +1,27 @@
+{
+  "name": "Jan Kowalski",
+  "email": "jan.kowalski@wp.pl",
+  "campaign": {
+    "campaignId": "jf7e3jn"
+  },
+  "customFieldValues": [
+    {
+      "customFieldId": "firstname",
+      "value": [
+        ""
+      ]
+    },
+    {
+      "customFieldId": "lastname",
+      "value": [
+        ""
+      ]
+    },
+    {
+      "customFieldId": "phone",
+      "value": [
+        ""
+      ]
+    }
+  ]
+}
